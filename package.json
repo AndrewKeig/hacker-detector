@@ -1,0 +1,28 @@
+{
+  "name": "hacker-detector",
+  "description": "",
+  "homepage": "https://github.com/AndrewKeig/hacker-detector",
+  "version": "0.0.1",
+  "author": {
+    "name": "Andrew Keig",
+    "email": "andrew.keig@gmail.com"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrewkeig/hacker-detector.git"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-config-dir": "^0.3.2",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-mocha-cli": "^1.10.0",
+    "grunt-mocha-istanbul": "^2.1.0",
+    "istanbul": "^0.3.2",
+    "lodash": "^2.4.1",
+    "mocha": "^1.21.4",
+    "moment": "^2.8.3"
+  }
+}
